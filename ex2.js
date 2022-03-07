@@ -1,7 +1,7 @@
 let nomeCompleto = "Robelsa Vasconcelos";
-let idade = 37 
-const email = "robelsapl@gmail.com";
+let idade = 37; 
+let stats = true;
 
 console.log(nomeCompleto);
 console.log(idade);
-console.log(email);
+console.log(stats);

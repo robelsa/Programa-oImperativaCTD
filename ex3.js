@@ -1,12 +1,13 @@
-// Equipe: Robelsa Vasconcelos; 
+// Equipe: Robelsa Vasconcelos; Isaac Newton; Julio Pereiro; Carlos Eduardo e 
+//Mahiny de Andrade - Grupo 6
 
 //1. Exiba a soma de 2 números
 let x=10;
 let y=5;
-console.log(x+=y);
+console.log(x+y);
 
 //2. Repita o anterior, mas utilizando outro operador
-console.log(x*=y);
+console.log(x*y);
 
 //3. Declare e atribua 2 variáveis independentes. Exiba a soma de ambas na tela. 
 
@@ -20,17 +21,20 @@ console.log(soma);
 var numero3=10;
 console.log(soma+numero3);
 
-//5. Re-atribua "Olá" + 23 e exiba na tela.
+//5. Re-atribua a variável anterior "1" +1 e exiba na tela. O que aconteceu?
+
+console.log(numero3+1);
+
+//6. Re-atribua "Olá" + 23 e exiba na tela.
 
 let saudacao="Olá!";
-let num=23;
-console.log(saudacao+num);
+console.log(saudacao+23);
 
 // Crie mensagens concatenadas com valores diferentes. 
 
 var nome="Robelsa";
-var idade= "37 anos";
-var cidade= "Pedra Lavrada";
+var idade=37;
+var cidade="Pedra Lavrada";
 var estado="Paraíba";
 console.log(nome+idade+cidade+estado);
 
