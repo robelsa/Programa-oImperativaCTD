@@ -30,13 +30,10 @@ console.log(numero3+1);
 let saudacao="Olá!";
 console.log(saudacao+23);
 
-// Crie mensagens concatenadas com valores diferentes. 
+// 6. Crie mensagens concatenadas com valores diferentes. 
 
-var nome="Robelsa";
-var idade=37;
-var cidade="Pedra Lavrada";
-var estado="Paraíba";
-console.log(nome+idade+cidade+estado);
+let concatenacao="Robelsa"+"Vasconcelos"+"Teste";
+console.log(concatenacao);
 
 
 //Como separar as informações? 
